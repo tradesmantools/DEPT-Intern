@@ -67,5 +67,5 @@ For full legal disclosures, refer to (https://docs.google.com/document/d/1IysfOH
 
 ---
 
-### 🚀 Join the Department!
+### 🛠️🚀 Join the Department!
 Get involved with DEPT - Intern and help shape the future of AECO engagement through AI and blockchain.
