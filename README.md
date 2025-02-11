@@ -63,7 +63,7 @@ The **DEPT - Intern** project is an innovative experiment leveraging AI and bloc
 - **Risk Awareness**: Market volatility, regulatory shifts, and technical challenges may impact token utility.  
 - **No Refunds**: All transactions are final and at the holder’s discretion.  
 
-For full legal disclosures, refer to [DEPT - Intern Disclosures](./DEPT-Intern-Disclosures.pdf).
+For full legal disclosures, refer to (https://docs.google.com/document/d/1IysfOH3N-Lzbr1GQaTZp-ets4a7ropKsY4SPI9_xWEw/edit?usp=sharing).
 
 ---
 
