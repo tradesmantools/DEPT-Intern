@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **DEPT - Intern** project is an innovative experiment leveraging AI and blockchain to improve the **Building Permitting Process** while fostering engagement within the Architecture, Engineering, Construction, and Real Estate Operations (AECO/VDCO) community. At its core, the **$DEPT Social Token** incentivizes users to contribute data, conduct research, and collaborate on real-world problems.
+The **DEPT - Intern** project is an innovation in leveraging AI and blockchain to improve the **Building Permitting Process** while fostering engagement within the Architecture, Engineering, Construction, and Real Estate Operations (AECO/VDCO) community. At its core, the **$DEPT Social Token** incentivizes users to contribute data, conduct research, and collaborate on real-world problems.
 
 ## Key Features
 
